@@ -1,0 +1,24 @@
+Colors:
+    headers:
+	#12100C btn menu
+	#FFAE33 btn header
+    select project:
+	#999795 text color
+    think ci/cd
+	#FFB0AE btn pink
+	box-shadow: -2px 2px 15px 8px rgba(255, 138, 0, 0.4); 
+	#FFFFFF
+
+    get started now
+	#2684FF continue btn gitlab
+	#000000 continue btn github
+	#FC6D26 continue btn bitbucket
+	#12100C btn in the left side
+	#FFE4BC link in the bottom
+
+    footer
+	icon color
+		background-image: linear-gradient(to right, #FFAD33 0%, #FF8A00 100%);
+
+2 font family :
+ Roboto
